@@ -1,0 +1,10 @@
+# Site settings
+title: Sergey Sokurenko
+description: Sharing interesting stuff here
+keywords: Web, Blogging, AngularJS, JavaScript
+author: ssokurenko
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter: ssokurenko
+github: ssokurenko
+instagram: macserj
