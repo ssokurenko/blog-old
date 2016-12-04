@@ -6,7 +6,7 @@ avatar: "img/authors/ava.png"
 image: "img/posts/ng-conf-2016.jpg"
 date:   2016-05-04 12:10:10
 theme-color: "#fff"
-theme-background: "#2196F3"
+theme-background: "#999"
 ---
 
 ## The conference was awesome
