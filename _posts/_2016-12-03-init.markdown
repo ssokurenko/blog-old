@@ -5,6 +5,8 @@ author: "ssokurenko"
 avatar: "img/authors/ava.png"
 image: "img/christmas-tree.jpg"
 date:   2016-12-03 12:12:12
+theme-color: "#fff"
+theme-background: "#4482c9"
 ---
 
 ### Markdown stuff goes here.

@@ -51,9 +51,9 @@ layout: compress
                     </svg>
                     <div class="card__content">
                         <i class="card__btn-close fa fa-times"></i>
-                        <div class="card__caption">
-                            <h2 class="card__title">{{ post.title }}</h2>
-                            <p class="card__subtitle">{{ post.subtitle }}</p>
+                        <div class="card__caption" style="background:{{ post.theme-background }}">
+                            <h2 class="card__title" style="color:{{ post.theme-color }}">{{ post.title }}</h2>
+                            <p class="card__subtitle" style="color:{{ post.theme-color }}">{{ post.subtitle }}</p>
                         </div>
                         <div class="card__copy">
                             <div class="meta">
