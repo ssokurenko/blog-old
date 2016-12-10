@@ -19,6 +19,7 @@
     height: 100%;
     border-radius: 2px;
     -webkit-overflow-scrolling: touch;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
 }
 
 .card__container--closed {
@@ -57,6 +58,7 @@
     padding: 30px 40px 22px;
     border-radius: 4px;
     background: #fff;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
 }
 
 .card__content iframe {
@@ -122,8 +124,10 @@
     position: absolute;
     top: 0;
     right: 0;
-    padding: 16px;
+    padding: 20px;
     cursor: pointer;
+    background: #fff;
+    border-radius: 50%;
 }
 
 .card__container--closed .card__btn-close {
@@ -177,7 +181,7 @@
 @media only screen and (max-width: 400px) {
     .card__caption {
         font-size: 1.25em;
-        padding: 35px 0px 0px;
+        padding: 35px 10px 10px;
     }
 
     .meta {
@@ -211,7 +215,7 @@ body {
     font-family: Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
     line-height: 1.5;
     color: #3b393d;
-    background: #f0f0f0;
+    background: #f6f6f6;
     background-size: cover;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -244,11 +248,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #3b393d;
-}
-
-.body {
-    background: #fff;
+    color: #c9025c;
 }
 
 .body .header h1 span {
