@@ -13,7 +13,7 @@ Sometimes required to pick some random color for a mockup, or even experiment fo
 I've created a web app with a collection of nice web-friendly colors with easy access to their color codes.
 Welcome to see my picks:
 
-[ssokurenko.github.io/great-web-colors](http://ssokurenko.github.io/great-web-colors/)
+[colors.sokurenko.com](http://colors.sokurenko.com/)
 
 Or fork the [repo on Github](https://github.com/ssokurenko/great-web-colors) to keep your collection.
 
